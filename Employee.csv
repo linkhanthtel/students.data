@@ -1,0 +1,81 @@
+ID,Position ,Job Type,EmployeeID,Dept_ID
+A0001,Web Developer,Full-time,E1,1
+A0002,Junior Finance Assistant,Full-time,E2,4
+A0003,Project Associate,Full-time,E3,4
+A0004,HR Manager,Part-time,E4,2
+A0005,HR Assistant,Full-time,E5,1
+A0006,Civil Engineer,Full-time,E6,5
+A0007,Data Analyst,Full-time,E7,2
+A0008,Data Entry,Full-time,E8,3
+A0009,Finance Manager,Full-time,E9,3
+A0010,Office Staff,Temporary,E10,3
+A0011,Admin Executive,Full-time,E11,5
+A0012,Software Engineer,Full-time,E12,4
+A0013,Game Developer,Full-time,E13,2
+A0014,Junior Finance Assistant,Part-time,E14,1
+A0015,Junior HR Executive,Full-time,E15,5
+A0016,Finance Associate,Full-time,E16,4
+A0017,Recruitment Associate,Full-time,E17,1
+A0018,Data Analyst,Full-time,E18,5
+A0019,Software Developer,Full-time,E19,4
+A0020,Data Scientist,Full-time,E20,4
+A0021,Accountant,Full-time,E21,1
+A0022,Finance Associate,Full-time,E22,1
+A0023,Web Developer,Full-time,E23,4
+A0024,Junior Finance Assistant,Full-time,E24,4
+A0025,Project Associate,Full-time,E25,1
+A0026,HR Manager,Full-time,E26,2
+A0027,HR Assistant,Full-time,E27,5
+A0028,Civil Engineer,Full-time,E28,5
+A0029,Data Analyst,Full-time,E29,3
+A0030,Data Entry,Full-time,E30,2
+A0031,Finance Manager,Full-time,E31,1
+A0032,Office Staff,Full-time,E32,1
+A0033,Admin Executive,Full-time,E33,3
+A0034,Admin Executive,Full-time,E34,4
+A0035,Software Engineer,Full-time,E35,1
+A0036,Game Developer,Full-time,E36,5
+A0037,Junior Finance Assistant,Full-time,E37,3
+A0038,Junior HR Executive,Full-time,E38,1
+A0039,Finance Associate,Full-time,E39,5
+A0040,Recruitment Associate,Full-time,E40,2
+A0041,Project Manager,Full-time,E41,3
+A0042,IT Support,Full-time,E42,4
+A0043,HR Manager,Full-time,E43,3
+A0044,IT Support,Full-time,E44,3
+A0045,Communication Manager,Full-time,E45,1
+A0046,Social Media Manager,Full-time,E46,2
+A0047,Digital Marketing Associate,Full-time,E47,2
+A0048,Language Teacher,Full-time,E48,3
+A0049,Software Engineer,Full-time,E49,4
+A0050,Web Developer,Full-time,E50,1
+A0051,UI Designer,Full-time,E51,4
+A0052,Driver,Full-time,E52,2
+A0053,Software Engineer,Full-time,E53,2
+A0054,Data Scientist,Full-time,E54,4
+A0055,Recruitment Associate,Full-time,E55,5
+A0056,HR Manager,Full-time,E56,2
+A0057,Language Teacher,Full-time,E57,5
+A0058,Civil Engineer,Full-time,E58,3
+A0059,Data Analyst,Full-time,E59,1
+A0060,Data Entry,Full-time,E60,1
+A0061,Finance Manager,Full-time,E61,3
+A0062,Office Staff,Full-time,E62,4
+A0063,Admin Executive,Full-time,E63,2
+A0064,Software Engineer,Full-time,E64,3
+A0065,Game Developer,Part-Time,E65,2
+A0066,Junior Finance Assistant,Full-time,E66,2
+A0067,Junior HR Executive,Full-time,E67,4
+A0068,Finance Associate,Full-time,E68,5
+A0069,Recruitment Associate,Full-time,E69,2
+A0070,Project Manager,Full-time,E70,4
+A0071,IT Support,Full-time,E71,1
+A0072,HR Manager,Full-time,E72,1
+A0073,IT Support,Full-time,E73,5
+A0074,Communication Manager,Contract,E74,4
+A0075,Social Media Manager,Full-time,E75,4
+A0076,Digital Marketing Associate,Full-time,E76,3
+A0077,Language Teacher,Part-time,E77,3
+A0078,Software Engineer,Full-time,E78,3
+A0079,Web Developer,Full-time,E79,1
+A0080,UI Designer,Full-time,E80,5
